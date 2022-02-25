@@ -1,6 +1,6 @@
 <?php
 
-namespace ctrlv\HelloWorld;
+namespace IgorShkatov\HelloWorld;
 
 class HelloWorld {
 
