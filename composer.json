@@ -1,5 +1,5 @@
 {
-    "name": "igorShkatov/composer-hw",
+    "name": "igor-shkatov/composer-hw",
     "description": "Домашнее задание",
     "authors": [
         {
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "igorShkatov\\HelloWorld\\": "src/"
+            "igor-shkatov\\HelloWorld\\": "src/"
         }
     }
 }
