@@ -1,0 +1,22 @@
+{
+    "name": "igor/composer-hw",
+    "description": "Домашнее задание",
+    "authors": [
+        {
+            "name": "Игорь ШКатов",
+            "email": "shkatov.develop@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "require-dev": {
+
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "igor\\HelloWorld\\": "src/"
+        }
+    }
+}
